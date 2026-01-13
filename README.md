@@ -11,4 +11,4 @@ Data Science & AI Student | Python • SQL • ML • Full-Stack | Intern @ Warr
 - ML web app demo
 
 ## Connect
-- [LinkedIn](https://linkedin.com/in/babaldeepsharma)
+- [LinkedIn]https://www.linkedin.com/in/babaldeep-sharma-8b8610383/
